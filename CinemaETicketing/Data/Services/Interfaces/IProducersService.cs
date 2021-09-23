@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CinemaETicketing.Data.Services.Interfaces
 {
-    public interface IActorsService : IEntityBaseRepository<Actor>
+    public interface IProducersService : IEntityBaseRepository<Producer>
     {
     }
 }
